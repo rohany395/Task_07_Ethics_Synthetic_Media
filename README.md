@@ -43,5 +43,3 @@ Everything is in `Phase_A.docx`, which runs in this order:
 **The video was not detected and the audio was.** I had assumed the opposite, because the video's flaws are the ones I can see. It did not matter. What a creator notices and what a detector reads turn out to be different things.
 
 **The paywall works backwards.** I first read the subscription barrier on these tools as mildly protective. It is not. Anyone motivated enough to fabricate something pays for it and treats it as a cost of doing business. The person who should be checking is scrolling past a clip and will not pay anything. So the barrier is weak exactly where you want it strong.
-
-That last one is why the policy's most useful mechanism ended up being a public registry of official videos rather than a label. A registry is the only thing that helps someone who received our content as a forward from a stranger.
